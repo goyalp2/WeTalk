@@ -9,7 +9,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
 public class TabsAccessorAdapter extends FragmentPagerAdapter {
 
     public TabsAccessorAdapter(@NonNull FragmentManager fm, int behavior) {
-        super(fm, behavior);
+        super(fm,behavior);
     }
 
     @Override
